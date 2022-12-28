@@ -1,3 +1,5 @@
+//Função que simula a lógica do método .map utilizado para mapear items/elementos de um array
+
 Array.prototype.pseudoMap = function (callback){
 
     const newArr = [];
